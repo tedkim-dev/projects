@@ -32,6 +32,7 @@ This repository serves as a centralized hub for technical documentation across m
 - **Key Features**: Event sourcing, CQRS, Saga pattern, distributed tracing
 - **Architecture**: Event-driven microservices with comprehensive observability
 - **Status**: Reference implementation of modern distributed systems patterns
+- **Repository**: [GitHub Repository](https://github.com/tedkim-dev/go-event-driven-architecture)
 
 **Highlights:**
 - Event sourcing with immutable event store
@@ -40,7 +41,7 @@ This repository serves as a centralized hub for technical documentation across m
 - Saga pattern for distributed transaction management
 - Comprehensive observability with OpenTelemetry
 
-[📖 Read Full Documentation](./go-event-driven-architecture.md)
+[📖 Read Full Documentation](./go-event-driven-architecture.md) | [🔗 View Source Code](https://github.com/tedkim-dev/go-event-driven-architecture)
 
 ### 3. [Mapsy Server - Appointment Booking System](./mapsy.md)
 **RESTful API service for appointment booking and vendor management**

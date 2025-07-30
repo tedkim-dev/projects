@@ -1,5 +1,7 @@
 # Event-Driven Microservices Architecture - Technical Documentation
 
+**🔗 [View Source Code on GitHub](https://github.com/tedkim-dev/go-event-driven-architecture)**
+
 ## Project Overview
 
 **Technologies**: Go, PostgreSQL, Redis, Docker, Kubernetes, Event-Driven Architecture
